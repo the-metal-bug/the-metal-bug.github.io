@@ -1,6 +1,7 @@
 .navbar{
     width: auto;
     height: 50px;
+    background-color: chartreuse;
 }
 body{
     background-color: #9c73ff;
