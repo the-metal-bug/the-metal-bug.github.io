@@ -1,2 +1,2 @@
 # the-metal-bug.github.io
-###landing page for future web projects
+landing page for future web projects
