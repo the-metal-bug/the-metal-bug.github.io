@@ -5,7 +5,9 @@
     background: -webkit-linear-gradient(top, #fefcea 0%,#efeac6 100%);
 }
 #content{
-    background: #fff;
+    width: 50%;
+    height: 250px;
+    background: white;
 
 }
 body{
