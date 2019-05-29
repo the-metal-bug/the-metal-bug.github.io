@@ -9,7 +9,7 @@
 #content{
     width: 50%;
     height: 250px;
-    text-align: center;
+   /* text-align: center;*/
     vertical-align: middle;
     background: lavender;
 }
